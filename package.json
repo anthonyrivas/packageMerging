@@ -1,0 +1,20 @@
+{
+  "name": "packageMerging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyrivas/packageMerging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyrivas/packageMerging/issues"
+  },
+  "homepage": "https://github.com/anthonyrivas/packageMerging#readme"
+}
